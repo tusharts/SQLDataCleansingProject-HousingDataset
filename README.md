@@ -26,6 +26,4 @@ A sample subset of the Nashville Housing Dataset is included in the `sample_data
 ## Acknowledgment
 This project was created following the tutorial by Alex the analyst on freeCodeCamp.org. I would like to express my gratitude for the valuable insights and guidance provided by Alex throughout the tutorial, which helped me gain a deeper understanding of SQL data import and cleaning techniques.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
