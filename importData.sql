@@ -1,3 +1,6 @@
+--Data Import Script (import_data.sql)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 --Importing Data using OPENROWSET and BULK INSERT	
 -- More advanced and looks cooler, but have to configure server appropriately to do correctly
 --Wanted to provide this in case you wanted to try it
